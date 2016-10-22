@@ -1,0 +1,2 @@
+# FugaSmart-Startup
+startup company
